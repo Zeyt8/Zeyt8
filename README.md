@@ -1,6 +1,5 @@
 # Hi, I'm Bogdan! 👋
 
-## 🚀 About Me
 I am a passionate game developer and CSE student.
 
 I’m currently working on **Don't Shake the Babies, a funny first person arena shooter**
