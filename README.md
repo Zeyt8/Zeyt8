@@ -1,6 +1,8 @@
 ## Hi, I'm Bogdan! 👋
 
-Here I have mostly my general software and engineering projects. For the projects related to game development check out my portfolio below:
+Here I have mostly my general software and engineering projects.
+
+For the projects related to game development check out my portfolio below.
 
 ### 🔗 Other Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zeyt8.github.io/)
