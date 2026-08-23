@@ -1,6 +1,6 @@
 ## Hi, I'm Bogdan! 👋
 
-Here I have mostly my general software and engineering projects.
+Here you can mostly find my general software and engineering projects.
 
 For the projects related to game development check out my portfolio below.
 
